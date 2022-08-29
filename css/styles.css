@@ -155,6 +155,11 @@ em{
 
 .buni{
     padding: 1%;
+    color: #ef8172;
+}
+
+.buni:hover{
+    color: #ff4c68;
 }
 
 .buni1{
